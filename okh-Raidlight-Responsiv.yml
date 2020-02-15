@@ -27,7 +27,7 @@ project-link: https://github.com/Raidlight/Projet-Pilote-Open-Source            
 contributors:                              # recommended
   - name: Raidlight / Skis Rossignol SAS                 # text
 
-image: https://github.com/Raidlight/Projet-Pilote-Open-Source/blob/master/ressources/images/3%20sacs.jpg                             # recommended | absolute or relative path
+image: https://raw.githubusercontent.com/Raidlight/Projet-Pilote-Open-Source/master/ressources/images/3%20sacs.jpg                          # recommended | absolute or relative path
 
 development-stage: in production                 # text
 
